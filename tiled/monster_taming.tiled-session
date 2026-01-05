@@ -1,31 +1,5 @@
 {
-    "Map/SizeTest": {
-        "height": 4300,
-        "width": 2
-    },
-    "activeFile": "Town_1.tsx",
-    "expandedProjectPaths": [
-        "."
-    ],
-    "fileStates": {
-        "Town_1.tsx": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1.44
-        }
-    },
-    "last.imagePath": "/Users/dev/Desktop/games/MonsterTamingGame/sprites/tileset",
-    "map.tileHeight": 16,
-    "map.tileWidth": 16,
+    "activeFile": "",
     "openFiles": [
-        "Town_1.tsx"
-    ],
-    "project": "monster_taming.tiled-project",
-    "recentFiles": [
-        "Town_1.tsx"
-    ],
-    "tileset.lastUsedFormat": "tsx",
-    "tileset.tileSize": {
-        "height": 16,
-        "width": 16
-    }
+    ]
 }
